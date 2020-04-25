@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <head>
 <link rel="stylesheet" href="https://use.typekit.net/ett5znf.css">  
 </head>
@@ -7,3 +9,4 @@
 <hr>
 <p class="left">I'm currently in the process of building a new personal website from the ground up, using pure HTML, CSS and Javascript. My previous website was built using Squarespace, which served its purpose, but also had many limitations. I'm using this transition as an opportunity to build a website that's cheaper and unteathered by the restraints of a commonplace website builder. The website will not only serve as an exhibit for my projects and resume, but the site itself will demonstrate my growing web development abilities.<br><br>-Will Carrico</p>
 </main>  
+</html>
