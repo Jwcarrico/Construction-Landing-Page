@@ -1,0 +1,34 @@
+/* Color Theme Swatches in Hex */
+.lightblue { color: #72B7BC; }
+.blue { color: #0D2233; }
+.navy { color: #04050A; }
+.gray { color: #E7EAE1; }
+.red { color: #BB0303; }
+
+body {
+  position: relative;
+  top: 50px;
+  background-color: #E7EAE1;
+  text-align: center;
+  max-width: 700px;
+  margin: auto;
+}
+h1 {
+  font-family: adobe-garamond-pro;
+  font-weight: 700;
+  font-style: normal;
+  color: #04050A;
+}
+p {
+  font-family: adobe-garamond-pro;
+  font-weight: 400;
+  font-style: normal;
+  color: #04050A;
+}
+.left {
+  display: inline-block;
+  text-align: left;
+}
+hr {
+  border: 4px solid #BB0303;
+}
