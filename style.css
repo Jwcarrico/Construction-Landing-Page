@@ -19,7 +19,7 @@ main {
 h1 {
   font-family: adobe-garamond-pro;
   font-weight: 700;
-  font-style: normal;
+  font-style: normal; 
   color: #03182D;
 }
 p {
@@ -37,9 +37,69 @@ hr {
 }
 .social {
   width: 50px;
-  padding: 20px
+  padding: 20px;
+  animation-name: social;
+  animation-duration: 2s;
 }
 .social:hover {
   opacity: 80%;
   transform: scale(1.1);
+}
+.red-bar {
+  height: 4px;
+  background-color: #BB0303;
+  animation-name: red-line;
+  animation: animation: 2s down-enter;
+}
+.linkedin {
+  animation-name: social-1;
+  animation-duration: 0.5s;
+}
+.vimeo {
+  animation-name: social-2;
+  animation-duration: 1s;
+}
+.email {
+  animation-name: social-3;
+  animation-duration: 1.5s;
+}
+
+@keyframes social-1 {
+  0% {
+    transform: scale(0)
+  }
+  90% {
+    transform: scale(1.2)
+  }
+  100% {
+    transform: scale(1)
+  }
+}
+@keyframes social-2 {
+  0% {
+    transform: scale(0)
+  }
+  33% {
+    transform: scale(0)
+  }
+  93% {
+    transform: scale(1.2)
+  }
+  100% {
+    transform: scale(1)
+  }
+}
+@keyframes social-3 {
+  0% {
+    transform: scale(0)
+  }
+  67% {
+    transform: scale(0)
+  }
+  96% {
+    transform: scale(1.2)
+  }
+  100% {
+    transform: scale(1)
+  }
 }
