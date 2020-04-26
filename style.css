@@ -48,8 +48,6 @@ hr {
 .red-bar {
   height: 4px;
   background-color: #BB0303;
-  animation-name: red-line;
-  animation: animation: 2s down-enter;
 }
 .linkedin {
   animation-name: social-1;
