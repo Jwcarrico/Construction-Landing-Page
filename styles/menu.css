@@ -1,0 +1,56 @@
+body {
+    background-color: red;
+    margin: 0px;
+    font-family: montserrat;
+    font-style: bold;
+  }
+  
+  .close {
+    width: 30px;
+    position: fixed;
+    top: 110px;
+    right: 55px;
+  }
+  
+  .container {
+    float: left;
+    position: relative;
+    left: 50%;
+    height: 100vh;
+    justify-self: center;
+  }
+  
+  nav {
+    position: relative;
+    top: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    transform: translate(-50%, -50%);
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    margin: 20px 0px;
+    font-size: 25px;
+  }
+
+  @media (max-width: 900px) {
+    .close {
+      width: 25px;
+      position: fixed;
+      top: 85px;
+      right: 50px;
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    .close {
+      width: 20px;
+      position: fixed;
+      top: 35px;
+      right: 25px;
+    }
+  }

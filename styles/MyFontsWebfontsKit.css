@@ -1,0 +1,28 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3941611, 2020-08-29T13:10:27-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Recoleta-SemiBold by Latinotype
+ * URL: https://www.myfonts.com/fonts/latinotype/recoleta/sem-ibold/
+ * Copyright: Copyright &amp;#x00A9; 2018 by Jorge Cisterna. All rights reserved.
+ * 
+ * 
+ * 
+ * © 2020 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/3c24eb");
+  
+@font-face {
+  font-family: 'Recoleta-SemiBold';
+  src: url('webFonts/Recoleta-SemiBold/font.woff2') format('woff2'), url('webFonts/Recoleta-SemiBold/font.woff') format('woff');
+}
+
