@@ -225,7 +225,6 @@ ul li {
 }
 
 
-
 /* Main Section Styles */
 
 main {
@@ -432,6 +431,22 @@ section {
     width: 5%;
     height: 7%;
     bottom: 12%;
+  }
+}
+
+@media (device-width: 375px) and (device-height: 812px) {
+  #welcome-section {
+    height: 100vh;
+  }
+  
+  #welcome-div {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 100px;
+    height: 90vh;
   }
 }
 
