@@ -331,7 +331,6 @@ section {
 @media (max-width: 1100px) and (orientation: portrait) {
   #welcome-div {
     padding: 0px 150px;
-    height: -webkit-fill-available;
   }
   .welcome-container {
     width: auto;
@@ -375,7 +374,6 @@ section {
     padding: 0px 20px;
     justify-content: center;
     align-items: start;
-    height: -webkit-fill-available;
   }
   .welcome-container {
     width: 355px;
@@ -413,7 +411,6 @@ section {
     justify-content: center;
     align-items: start;
     padding: 0px 20px;
-    height: -webkit-fill-available;
   }
   .welcome-container {
     width: 280px;
