@@ -38,6 +38,9 @@ As a previous customer of Squarspace, I initially found the contrast between $14
 
 ## Timeline
 
+***9-1-20***
+Published initial version of willcarrico.com without project pages in order to work out the kinks and test on various devices.
+
 ***8-19-20***
 Secured and optimized site using Cloudflare.
 
@@ -47,13 +50,13 @@ Transferred domain name to Google Domains.
 I found that I like the user friendliness of Google Domains compared to Amazon Web Services and didn't find it pragmatic to continue bumbling through Amazon's platform.
 
 ***8-5-20***
-Migrated all existing code from codepen.io to a locally hosted folder and began writing code in Visual Studio Code
+Migrated all existing code from codepen.io to a locally hosted folder and began writing code in Visual Studio Code.
 
 ***7-17-20***
 Began initial iterations of the site design in Figma as well as initial development of web elements on codepen.io.
 
 ***4-22-20***
-Domain willcarrico.com re-purchased using Amazon Web Services. (I had previously owned the domain from using Squarespace, but let it expire months prior)
+Domain willcarrico.com re-purchased using Amazon Web Services. (I had previously owned the domain through Squarespace, but let it expire months prior).
 
 ## Credits
 
