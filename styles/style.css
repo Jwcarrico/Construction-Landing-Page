@@ -440,12 +440,16 @@ section {
   }
   
   #welcome-div {
-    display: flex;
-    flex-direction: column;
-    color: white;
-    justify-content: center;
-    align-items: center;
-    padding: 0px 100px;
+    height: 90vh;
+  }
+}
+
+@media (device-width: 414px) and (device-height: 896px) {
+  #welcome-section {
+    height: 100vh;
+  }
+  
+  #welcome-div {
     height: 90vh;
   }
 }
