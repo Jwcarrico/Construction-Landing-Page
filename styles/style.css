@@ -374,6 +374,7 @@ section {
     padding: 0px 20px;
     justify-content: center;
     align-items: start;
+    height: -webkit-fill-available;
   }
   .welcome-container {
     width: 355px;
