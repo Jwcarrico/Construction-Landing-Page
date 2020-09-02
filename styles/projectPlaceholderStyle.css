@@ -211,7 +211,6 @@
     #welcome-section {
       position: relative;
       height: 100vh;
-      height: -webkit-fill-available;
       /* height: 108vh; */
       background-color: #063B61;
       /* border-radius: 0px 0px 50px 50px; */
@@ -225,7 +224,6 @@
       align-items: center;
       padding: 0px 100px;
       height: 100vh;
-      height: -webkit-fill-available;
     }
     
     .welcome-container {
@@ -306,6 +304,12 @@
     }
 
     @media (max-width: 800px) {
+      #welcome-section {
+        height: -webkit-fill-available;
+      }
+      #welcome-div {
+        height: -webkit-fill-available;
+      }
       .welcome-container {
         width: auto;
       }
