@@ -539,6 +539,10 @@ section {
 }
 
 @media (max-width: 850px) {
+  #projects {
+    padding: 0px 25px;
+    margin: 50px auto 0px auto;
+  }
   #projects-grid {
     grid-template-columns: 1fr;
     grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
@@ -558,10 +562,6 @@ section {
 }
 
 @media (max-width: 550px) {
-  #projects {
-    padding: 0px 25px;
-    margin: 50px auto 50px auto;
-  }
   .project-tile {
     width: auto;
     padding: 25px;
