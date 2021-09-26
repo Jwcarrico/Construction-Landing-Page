@@ -643,10 +643,9 @@ section {
 }
 #about p a {
   font-style: italic;
-  font-weight: 600;
+  font-weight: 700;
   color: #063B61;
   text-decoration: none;
-  border-bottom: solid #063B61 1px;
   margin: 0px 5px;
 }
 
